@@ -1,4 +1,4 @@
-# JuJus-Better-Wynncraft
+# JuJu's Better Wynncraft
 
 Version: `1.2`
 
