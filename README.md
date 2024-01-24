@@ -1,1 +1,1 @@
-# JuJus-Better-Wynncraft-
+# JuJus-Better-Wynncraft
