@@ -6,7 +6,7 @@ Version: `1.4`
 
 Currently Available Launchers: `CurseForge`, `Modrinth`
 
-Modpack Managed By: @JuJuBeanYT
+Modpack Managed By: @JuJubeanYT
 
 **Mods:**
 
