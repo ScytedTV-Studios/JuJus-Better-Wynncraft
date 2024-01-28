@@ -2,33 +2,4 @@
 
 ![JuJu's Better Wynncraft - Big Logo](https://github.com/ScytedTV-Studios/JuJus-Better-Wynncraft/assets/70546159/f623a73c-41b3-40a7-9c77-aca38b2da30c)
 
-Version: `1.4`
-
-Currently Available Launchers: `CurseForge`, `Modrinth`
-
-Modpack Managed By: @JuJubeanYT
-
-**Mods:**
-
-- Athena
-- Better Third Person
-- Capes
-- Cloth Config API (Fabric/Forge/NeoForge)
-- Controlling
-- Fabric API
-- Fabric Language Kotlin
-- Iris Shaders
-- FPS Reducer
-- Mouse Tweaks
-- Not Enough Animations
-- Replay Mod (Fabric & Forge)
-- Searchables
-- Skin Layers 3D (Fabric/Forge)
-- Sodium
-- Sodium Extra
-- Sound Physics Remastered
-- Voices of Wynn
-- Wynntils
-- YDM's Weapon Master
-- YetAnotherConfigLib
-- Zoomify
+Download: [wavedev.app/jujus-better-wynncraft](https://www.wavedev.app/jujus-better-wynncraft/)
